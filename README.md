@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishal9971
-- 👀 I’m interested in Web designing.
-- 🌱 I’m currently learning merns stack.
+- 👀 I have problem solving skills (Data Structures and Algorithm).
+- 🌱 I’m MERN Stack Developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact-9971720423 .
 
