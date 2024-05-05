@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Vishal9971
+- 👋 Hi, I’m Vishal Sharma.
 - 👀 I have problem solving skills (Data Structures and Algorithm).
 - 🌱 I’m MERN Stack Developer.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact-9971720423 .
 
 <!---
